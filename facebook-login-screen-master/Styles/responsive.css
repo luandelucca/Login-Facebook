@@ -1,0 +1,10 @@
+@media (max-width: 900px) {
+    #apresentation {
+        align-items: center;
+        width: 30rem;
+    }
+
+    #apresentation span {
+        text-align: center;
+    }    
+}
